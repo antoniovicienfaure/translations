@@ -1,7 +1,7 @@
 {
   "We're excited you're here.": "Ens agrada estar aquí.",
   "Welcome to": "Benvingut a {{app_name}}.",
-  "Show on launch": "Mostra al llançament",
+  "Show on launch": "Mostra-ho a l'inici",
   "Ready to connect to your server?": "Esteu a punt per connectar-vos al vostre servidor?",
   "Language": "Llenguatge",
   "Collect Anonymous Data": "Recopileu dades anònimes",
@@ -9,7 +9,7 @@
   "How do you intend to use sFTP Client:": "Com voleu utilitzar Client sFTP:",
   "Your choice below may entitle you to a discount.": "La vostra selecció següent pot donar-vos dret a un descompte.",
   "Are you a startup business?": "Ets un negoci d'inici?",
-  "No": "No",Progrés
+  "No": "No",
   "Yes": "Sí",
   "i.e. founded within the past 3 years": "és a dir fundat en els últims 3 anys",
   "Year Founded?": "Any fundat?",
